@@ -1,0 +1,83 @@
+.search-bar {
+  display: block;
+  font-size: 20px;
+  font-family: 'Croissant One', cursive;
+  margin-left: 10px;
+  margin-bottom: 30px;
+}
+
+.video-preview {
+  display: inline-block;
+  width: 300px;
+  margin-left: 30px;
+  margin-right: 30px;
+  vertical-align: top;
+}
+.up-preview {
+  margin-bottom: 20px;
+}
+
+.channel-pic {
+  display: inline-block;
+  width: 50px;
+  vertical-align: top;
+}
+
+.video-info {
+  display: inline-block;
+  width: 200px;
+}
+
+
+
+  .thumbnail {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    /*object-fit: contain;*/
+    object-position: right;
+    border-style: double;
+    border-color: aquamarine;
+    border-radius: 150px;
+    display: block;
+    
+  }
+
+  .profile-pic {
+    width: 100%;
+    /*margin-left: 21px;*/
+    object-fit: cover;
+    /*object-fit: contain;*/
+    object-position: center;
+    /*border-style: double;
+    border-color: aquamarine;*/
+    border-radius: 25px;
+    /*display: inline;*/
+  }
+
+  .video-title {
+    font-size: 15px;
+    font-family: 'Croissant One', cursive;
+    color: blueviolet;
+    /*width: 300px;*/
+    vertical-align: top;
+    
+    margin-top: 0px;
+  }
+  .video-author {
+    display: inline-block;
+    font-size: 12px;
+    font-family: 'Times New Roman';
+    color: grey;
+    
+  }
+  .video-stats {
+    display: inline-block;
+    font-size: 8px;
+    font-family: 'Arial';
+    color: blue;
+    
+  }
+
+
+
